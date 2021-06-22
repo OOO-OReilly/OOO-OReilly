@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OOO-OReilly
-- 👀 I’m interested in software engineering/ web development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in software engineering/ web development opportunities
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 Reach me at odonnell.reilly.j@gmail.com
 
